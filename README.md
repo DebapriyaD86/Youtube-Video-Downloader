@@ -1,8 +1,8 @@
 # Youtube-Video-Downloader
-This is an GUI application for downloading video from Youtube. It uses the ___pytube___ library for this purpose. Below is a screenshot of the application interface.
+### This is an GUI application for downloading video from Youtube. It uses the ___pytube___ library for this purpose. Below is a screenshot of the application interface.
 <img width="440" alt="image" src="https://github.com/DebapriyaD86/Youtube-Video-Downloader/assets/148674866/245e8a76-bb84-4ece-b1e6-ad49b48b4433">
 
-Upon successful download, it shows the following message.
+### Upon successful download, it shows the following message.
 <img width="440" alt="image" src="https://github.com/DebapriyaD86/Youtube-Video-Downloader/assets/148674866/fdcc1632-c9e9-487f-809b-232e1ddae55c">
 
 
